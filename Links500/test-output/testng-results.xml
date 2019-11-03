@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="10" passed="10">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="235023" started-at="2019-11-03T20:55:58Z" finished-at="2019-11-03T20:59:53Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="235023" started-at="2019-11-03T20:55:58Z" finished-at="2019-11-03T20:59:53Z">
+      <class name="com.google.links100.Link10">
+        <test-method status="PASS" signature="navigateURL()[pri:0, instance:com.google.links100.Link10@44a664f2]" name="navigateURL" duration-ms="14161" started-at="2019-11-03T20:58:59Z" finished-at="2019-11-03T20:59:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateURL -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.google.links100.Link10@44a664f2]" name="tearDown" is-config="true" duration-ms="0" started-at="2019-11-03T20:59:13Z" finished-at="2019-11-03T20:59:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=navigateURL status=SUCCESS method=Link10.navigateURL()[pri:0, instance:com.google.links100.Link10@44a664f2] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.google.links100.Link10 -->
+      <class name="com.google.links100.Link9">
+        <test-method status="PASS" signature="navigateURL()[pri:0, instance:com.google.links100.Link9@7f77e91b]" name="navigateURL" duration-ms="14998" started-at="2019-11-03T20:58:44Z" finished-at="2019-11-03T20:58:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateURL -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.google.links100.Link9@7f77e91b]" name="tearDown" is-config="true" duration-ms="1" started-at="2019-11-03T20:58:59Z" finished-at="2019-11-03T20:58:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=navigateURL status=SUCCESS method=Link9.navigateURL()[pri:0, instance:com.google.links100.Link9@7f77e91b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.google.links100.Link9 -->
+      <class name="com.google.links100.Link8">
+        <test-method status="PASS" signature="navigateURL()[pri:0, instance:com.google.links100.Link8@1a38c59b]" name="navigateURL" duration-ms="12695" started-at="2019-11-03T20:58:31Z" finished-at="2019-11-03T20:58:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateURL -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.google.links100.Link8@1a38c59b]" name="tearDown" is-config="true" duration-ms="0" started-at="2019-11-03T20:58:44Z" finished-at="2019-11-03T20:58:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=navigateURL status=SUCCESS method=Link8.navigateURL()[pri:0, instance:com.google.links100.Link8@1a38c59b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.google.links100.Link8 -->
+      <class name="com.google.links100.Link1">
+        <test-method status="PASS" signature="setUP()[pri:0, instance:com.google.links100.Link1@c540f5a]" name="setUP" is-config="true" duration-ms="5040" started-at="2019-11-03T20:55:58Z" finished-at="2019-11-03T20:56:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method status="PASS" signature="setUP()[pri:0, instance:com.google.links100.Link10@44a664f2]" name="setUP" is-config="true" duration-ms="3515" started-at="2019-11-03T20:56:03Z" finished-at="2019-11-03T20:56:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method status="PASS" signature="setUP()[pri:0, instance:com.google.links100.Link2@770c2e6b]" name="setUP" is-config="true" duration-ms="3662" started-at="2019-11-03T20:56:07Z" finished-at="2019-11-03T20:56:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method status="PASS" signature="setUP()[pri:0, instance:com.google.links100.Link3@1a052a00]" name="setUP" is-config="true" duration-ms="4005" started-at="2019-11-03T20:56:10Z" finished-at="2019-11-03T20:56:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method status="PASS" signature="setUP()[pri:0, instance:com.google.links100.Link4@4d826d77]" name="setUP" is-config="true" duration-ms="4261" started-at="2019-11-03T20:56:14Z" finished-at="2019-11-03T20:56:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method status="PASS" signature="setUP()[pri:0, instance:com.google.links100.Link5@61009542]" name="setUP" is-config="true" duration-ms="3696" started-at="2019-11-03T20:56:19Z" finished-at="2019-11-03T20:56:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method status="PASS" signature="setUP()[pri:0, instance:com.google.links100.Link6@77e9807f]" name="setUP" is-config="true" duration-ms="3804" started-at="2019-11-03T20:56:22Z" finished-at="2019-11-03T20:56:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method status="PASS" signature="setUP()[pri:0, instance:com.google.links100.Link7@448ff1a8]" name="setUP" is-config="true" duration-ms="3451" started-at="2019-11-03T20:56:26Z" finished-at="2019-11-03T20:56:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method status="PASS" signature="setUP()[pri:0, instance:com.google.links100.Link8@1a38c59b]" name="setUP" is-config="true" duration-ms="3867" started-at="2019-11-03T20:56:29Z" finished-at="2019-11-03T20:56:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method status="PASS" signature="setUP()[pri:0, instance:com.google.links100.Link9@7f77e91b]" name="setUP" is-config="true" duration-ms="4115" started-at="2019-11-03T20:56:33Z" finished-at="2019-11-03T20:56:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method status="PASS" signature="navigateURL()[pri:0, instance:com.google.links100.Link1@c540f5a]" name="navigateURL" duration-ms="12090" started-at="2019-11-03T20:56:37Z" finished-at="2019-11-03T20:56:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateURL -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.google.links100.Link1@c540f5a]" name="tearDown" is-config="true" duration-ms="4" started-at="2019-11-03T20:56:50Z" finished-at="2019-11-03T20:56:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=navigateURL status=SUCCESS method=Link1.navigateURL()[pri:0, instance:com.google.links100.Link1@c540f5a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:com.google.links100.Link1@c540f5a]" name="CloseBrowser" is-config="true" duration-ms="5077" started-at="2019-11-03T20:59:13Z" finished-at="2019-11-03T20:59:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:com.google.links100.Link10@44a664f2]" name="CloseBrowser" is-config="true" duration-ms="4380" started-at="2019-11-03T20:59:18Z" finished-at="2019-11-03T20:59:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:com.google.links100.Link2@770c2e6b]" name="CloseBrowser" is-config="true" duration-ms="4066" started-at="2019-11-03T20:59:23Z" finished-at="2019-11-03T20:59:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:com.google.links100.Link3@1a052a00]" name="CloseBrowser" is-config="true" duration-ms="3933" started-at="2019-11-03T20:59:27Z" finished-at="2019-11-03T20:59:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:com.google.links100.Link4@4d826d77]" name="CloseBrowser" is-config="true" duration-ms="3748" started-at="2019-11-03T20:59:31Z" finished-at="2019-11-03T20:59:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:com.google.links100.Link5@61009542]" name="CloseBrowser" is-config="true" duration-ms="3707" started-at="2019-11-03T20:59:34Z" finished-at="2019-11-03T20:59:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:com.google.links100.Link6@77e9807f]" name="CloseBrowser" is-config="true" duration-ms="3739" started-at="2019-11-03T20:59:38Z" finished-at="2019-11-03T20:59:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:com.google.links100.Link7@448ff1a8]" name="CloseBrowser" is-config="true" duration-ms="3710" started-at="2019-11-03T20:59:42Z" finished-at="2019-11-03T20:59:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:com.google.links100.Link8@1a38c59b]" name="CloseBrowser" is-config="true" duration-ms="3710" started-at="2019-11-03T20:59:46Z" finished-at="2019-11-03T20:59:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:com.google.links100.Link9@7f77e91b]" name="CloseBrowser" is-config="true" duration-ms="3777" started-at="2019-11-03T20:59:49Z" finished-at="2019-11-03T20:59:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- com.google.links100.Link1 -->
+      <class name="com.google.links100.Link3">
+        <test-method status="PASS" signature="navigateURL()[pri:0, instance:com.google.links100.Link3@1a052a00]" name="navigateURL" duration-ms="13749" started-at="2019-11-03T20:56:58Z" finished-at="2019-11-03T20:57:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateURL -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.google.links100.Link3@1a052a00]" name="tearDown" is-config="true" duration-ms="1" started-at="2019-11-03T20:57:12Z" finished-at="2019-11-03T20:57:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=navigateURL status=SUCCESS method=Link3.navigateURL()[pri:0, instance:com.google.links100.Link3@1a052a00] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.google.links100.Link3 -->
+      <class name="com.google.links100.Link2">
+        <test-method status="PASS" signature="navigateURL()[pri:0, instance:com.google.links100.Link2@770c2e6b]" name="navigateURL" duration-ms="8560" started-at="2019-11-03T20:56:50Z" finished-at="2019-11-03T20:56:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateURL -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.google.links100.Link2@770c2e6b]" name="tearDown" is-config="true" duration-ms="0" started-at="2019-11-03T20:56:58Z" finished-at="2019-11-03T20:56:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=navigateURL status=SUCCESS method=Link2.navigateURL()[pri:0, instance:com.google.links100.Link2@770c2e6b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.google.links100.Link2 -->
+      <class name="com.google.links100.Link5">
+        <test-method status="PASS" signature="navigateURL()[pri:0, instance:com.google.links100.Link5@61009542]" name="navigateURL" duration-ms="16388" started-at="2019-11-03T20:57:38Z" finished-at="2019-11-03T20:57:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateURL -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.google.links100.Link5@61009542]" name="tearDown" is-config="true" duration-ms="4" started-at="2019-11-03T20:57:54Z" finished-at="2019-11-03T20:57:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=navigateURL status=SUCCESS method=Link5.navigateURL()[pri:0, instance:com.google.links100.Link5@61009542] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.google.links100.Link5 -->
+      <class name="com.google.links100.Link4">
+        <test-method status="PASS" signature="navigateURL()[pri:0, instance:com.google.links100.Link4@4d826d77]" name="navigateURL" duration-ms="25888" started-at="2019-11-03T20:57:12Z" finished-at="2019-11-03T20:57:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateURL -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.google.links100.Link4@4d826d77]" name="tearDown" is-config="true" duration-ms="2" started-at="2019-11-03T20:57:38Z" finished-at="2019-11-03T20:57:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=navigateURL status=SUCCESS method=Link4.navigateURL()[pri:0, instance:com.google.links100.Link4@4d826d77] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.google.links100.Link4 -->
+      <class name="com.google.links100.Link7">
+        <test-method status="PASS" signature="navigateURL()[pri:0, instance:com.google.links100.Link7@448ff1a8]" name="navigateURL" duration-ms="13683" started-at="2019-11-03T20:58:18Z" finished-at="2019-11-03T20:58:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateURL -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.google.links100.Link7@448ff1a8]" name="tearDown" is-config="true" duration-ms="0" started-at="2019-11-03T20:58:31Z" finished-at="2019-11-03T20:58:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=navigateURL status=SUCCESS method=Link7.navigateURL()[pri:0, instance:com.google.links100.Link7@448ff1a8] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.google.links100.Link7 -->
+      <class name="com.google.links100.Link6">
+        <test-method status="PASS" signature="navigateURL()[pri:0, instance:com.google.links100.Link6@77e9807f]" name="navigateURL" duration-ms="23151" started-at="2019-11-03T20:57:54Z" finished-at="2019-11-03T20:58:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateURL -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.google.links100.Link6@77e9807f]" name="tearDown" is-config="true" duration-ms="0" started-at="2019-11-03T20:58:18Z" finished-at="2019-11-03T20:58:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=navigateURL status=SUCCESS method=Link6.navigateURL()[pri:0, instance:com.google.links100.Link6@77e9807f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.google.links100.Link6 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

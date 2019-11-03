@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="com.google.links100.Link2">
+        <methods>
+          <include name="CloseBrowser"/>
+          <include name="tearDown"/>
+          <include name="navigateURL"/>
+          <include name="setUP"/>
+        </methods>
+      </class> <!-- com.google.links100.Link2 -->
+      <class name="com.google.links100.Link4">
+        <methods>
+          <include name="CloseBrowser"/>
+          <include name="tearDown"/>
+          <include name="setUP"/>
+          <include name="navigateURL"/>
+        </methods>
+      </class> <!-- com.google.links100.Link4 -->
+      <class name="com.google.links100.Link3">
+        <methods>
+          <include name="setUP"/>
+          <include name="CloseBrowser"/>
+          <include name="tearDown"/>
+          <include name="navigateURL"/>
+        </methods>
+      </class> <!-- com.google.links100.Link3 -->
+      <class name="com.google.links100.Link6">
+        <methods>
+          <include name="CloseBrowser"/>
+          <include name="tearDown"/>
+          <include name="setUP"/>
+          <include name="navigateURL"/>
+        </methods>
+      </class> <!-- com.google.links100.Link6 -->
+      <class name="com.google.links100.Link1">
+        <methods>
+          <include name="navigateURL"/>
+          <include name="setUP"/>
+          <include name="CloseBrowser"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.google.links100.Link1 -->
+      <class name="com.google.links100.Link5">
+        <methods>
+          <include name="CloseBrowser"/>
+          <include name="tearDown"/>
+          <include name="setUP"/>
+          <include name="navigateURL"/>
+        </methods>
+      </class> <!-- com.google.links100.Link5 -->
+      <class name="com.google.links100.Link7">
+        <methods>
+          <include name="setUP"/>
+          <include name="tearDown"/>
+          <include name="navigateURL"/>
+          <include name="CloseBrowser"/>
+        </methods>
+      </class> <!-- com.google.links100.Link7 -->
+      <class name="com.google.links100.Link9">
+        <methods>
+          <include name="navigateURL"/>
+          <include name="setUP"/>
+          <include name="CloseBrowser"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.google.links100.Link9 -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
